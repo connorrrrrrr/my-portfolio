@@ -226,3 +226,18 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+Feature #1: Deployment
+
+Estimate of time needed to complete: 15 mins
+
+Start time: 5:15pm
+
+Finish time: 5:34pm
+
+Actual time needed to complete: 19 mins
+
+Netlify Deployment: https://loving-kepler-238033.netlify.app/
+
+Feature #2: Modify Contents
+
