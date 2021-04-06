@@ -76,7 +76,7 @@ class Landing extends React.Component {
                 <span />
                 <span />
               </div>
-              <Container className="py-lg-md d-flex">
+              {/* <Container className="py-lg-md d-flex">
                 <div className="col px-0">
                   <Row>
                     <Col lg="6">
@@ -116,7 +116,7 @@ class Landing extends React.Component {
                     </Col>
                   </Row>
                 </div>
-              </Container>
+              </Container> */}
               {/* SVG separator */}
               <div className="separator separator-bottom separator-skew">
                 <svg
